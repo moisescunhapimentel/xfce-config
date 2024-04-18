@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=enable pager
+Comment=
+Exec=/home/mosa/projects/bash/skip-pager/disable-and-enable-skip-pager.sh -e
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

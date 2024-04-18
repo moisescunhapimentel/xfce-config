@@ -1,0 +1,12 @@
+/*
+!.gitignore
+
+!panel/
+
+!terminal/
+terminal/*
+!terminal/terminalrc
+
+!xfconf
+xfconf/xfce-perchannel-xml/*
+!xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
