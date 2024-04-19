@@ -3,6 +3,9 @@
 
 !panel/
 
+panel/whiskermenu*.rc
+panel/xfce4-clipman*
+
 !terminal/
 terminal/*
 !terminal/terminalrc
